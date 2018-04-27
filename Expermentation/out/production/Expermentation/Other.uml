@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>org.tha3rav.rimaz.core.OOP.AbstractMethod</OriginalElement>
+  <nodes>
+    <node x="210.0" y="889.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.Model.IModelsFilter</node>
+    <node x="394.5449766262743" y="242.89189870188773">org.tha3rav.rimaz.core.OOP.Constructor</node>
+    <node x="0.0" y="519.8887577902459">org.tha3rav.rimaz.apk.ApkTypeEntryFactory</node>
+    <node x="775.0563232656139" y="815.8887577902459">org.tha3rav.rimaz.apk.AbstractApk</node>
+    <node x="397.134807089686" y="0.12343277575061506">org.tha3rav.rimaz.core.OOP.Getter</node>
+    <node x="396.78700404467565" y="667.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.InputEventScanner</node>
+    <node x="504.0560623914429" y="445.8887577902459">org.tha3rav.rimaz.apk.ApkResourceFileFactory</node>
+    <node x="651.3021161309258" y="815.8887577902459">org.tha3rav.rimaz.apk.Apk</node>
+    <node x="164.64808022718373" y="0.0">org.tha3rav.rimaz.core.OOP.Method</node>
+    <node x="17.73708762859328" y="152.33113308357224">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.Event</node>
+    <node x="266.7827466290747" y="371.8887577902459">org.tha3rav.rimaz.core.AndroidSpecific.AndroidGeneratedTypesAbstractFactory</node>
+    <node x="463.3160060125032" y="519.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.ModelHelperClassFilter</node>
+    <node x="0.0" y="889.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.Model.ModelAbstractFactory</node>
+    <node x="649.0787544701568" y="593.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.IEventHandlerScanner</node>
+    <node x="596.5924324442994" y="667.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.IInputEventScanner</node>
+    <node x="197.84301071738275" y="741.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.IActiveClassesFilter</node>
+    <node x="254.05606239144288" y="445.8887577902459">org.tha3rav.rimaz.core.AndroidSpecific.IAndroidGeneratedTypesFilter</node>
+    <node x="0.0" y="297.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.InputEvent</node>
+    <node x="0.0" y="667.8887577902459">org.tha3rav.rimaz.apk.ApkTypeEntryFilter</node>
+    <node x="0.0" y="445.8887577902459">org.tha3rav.rimaz.core.AndroidSpecific.AndroidGeneratedTypesFilter</node>
+    <node x="199.51113362059834" y="593.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.ActiveClassAbstractFactory</node>
+    <node x="169.52635748786648" y="815.8887577902459">org.tha3rav.rimaz.apk.IApkUnzipper</node>
+    <node x="0.0" y="741.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.ActiveClassesFilter</node>
+    <node x="390.84301071738275" y="741.8887577902459">org.tha3rav.rimaz.core.SootLoader</node>
+    <node x="552.1267495246872" y="741.8887577902459">org.tha3rav.rimaz.core.AbstractSootLoader</node>
+    <node x="0.0" y="593.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.ActiveClassFactory</node>
+    <node x="730.2163391605759" y="445.8887577902459">org.tha3rav.rimaz.apk.ApkResourceFileAbstractFactory</node>
+    <node x="0.0" y="371.8887577902459">org.tha3rav.rimaz.core.AndroidSpecific.AndroidGeneratedTypesFactory</node>
+    <node x="495.3021161309258" y="815.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.IEventsFilter</node>
+    <node x="213.31600601250318" y="519.8887577902459">org.tha3rav.rimaz.apk.ApkTypeEntryAbstractFactory</node>
+    <node x="0.6480802271837618" y="0.0">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.EventHandler</node>
+    <node x="333.52635748786645" y="815.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.EventsFilter</node>
+    <node x="435.51113362059834" y="593.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.EventHandlerScanner</node>
+    <node x="200.78700404467568" y="667.8887577902459">org.tha3rav.rimaz.apk.IApkTypeEntryFilter</node>
+    <node x="0.0" y="815.8887577902459">org.tha3rav.rimaz.apk.ApkUnzipper</node>
+    <node x="685.7507999771434" y="519.8887577902459">org.tha3rav.rimaz.core.ArchitecturalLayers.IModelHelperClassFilter</node>
+    <node x="169.99156311444204" y="226.01691533080026">org.tha3rav.rimaz.core.OOP.Setter</node>
+    <node x="259.7275686215452" y="117.43857375795682">org.tha3rav.rimaz.core.OOP.AbstractMethod</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.tha3rav.rimaz.core.OOP.Setter" target="org.tha3rav.rimaz.core.OOP.AbstractMethod">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.OOP.Getter" target="org.tha3rav.rimaz.core.OOP.AbstractMethod">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.EventHandlerScanner" target="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.IEventHandlerScanner">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.apk.Apk" target="org.tha3rav.rimaz.apk.AbstractApk">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.apk.ApkTypeEntryFilter" target="org.tha3rav.rimaz.apk.IApkTypeEntryFilter">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.apk.ApkResourceFileFactory" target="org.tha3rav.rimaz.apk.ApkResourceFileAbstractFactory">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.EventsFilter" target="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.IEventsFilter">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.AndroidSpecific.AndroidGeneratedTypesFilter" target="org.tha3rav.rimaz.core.AndroidSpecific.IAndroidGeneratedTypesFilter">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.InputEvent" target="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.Event">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.AndroidSpecific.AndroidGeneratedTypesFactory" target="org.tha3rav.rimaz.core.AndroidSpecific.AndroidGeneratedTypesAbstractFactory">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.ActiveClassFactory" target="org.tha3rav.rimaz.core.ArchitecturalLayers.ActiveClassAbstractFactory">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.EventHandler" target="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.Event">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.apk.ApkTypeEntryFactory" target="org.tha3rav.rimaz.apk.ApkTypeEntryAbstractFactory">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.ModelHelperClassFilter" target="org.tha3rav.rimaz.core.ArchitecturalLayers.IModelHelperClassFilter">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.SootLoader" target="org.tha3rav.rimaz.core.AbstractSootLoader">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.InputEventScanner" target="org.tha3rav.rimaz.core.ArchitecturalLayers.EventHandling.IInputEventScanner">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.OOP.Method" target="org.tha3rav.rimaz.core.OOP.AbstractMethod">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.OOP.Constructor" target="org.tha3rav.rimaz.core.OOP.AbstractMethod">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.core.ArchitecturalLayers.ActiveClassesFilter" target="org.tha3rav.rimaz.core.ArchitecturalLayers.IActiveClassesFilter">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="org.tha3rav.rimaz.apk.ApkUnzipper" target="org.tha3rav.rimaz.apk.IApkUnzipper">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="319.0" y="574.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pxb.android:axml:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pxb/android/axml/2.0.0-SNAPSHOT/axml-2.0.0-20171107.142541-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pxb/android/axml/2.0.0-SNAPSHOT/axml-2.0.0-20171107.142541-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pxb/android/axml/2.0.0-SNAPSHOT/axml-2.0.0-20171107.142541-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

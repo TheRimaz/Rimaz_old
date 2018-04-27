@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="soot-infoflow">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/soot-infoflow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
