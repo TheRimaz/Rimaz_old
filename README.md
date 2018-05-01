@@ -57,3 +57,7 @@ The current version of Rimaz is developed with parallelism in mind, for the sake
 ### Manual analyses dataset
 
 ### Automatic analyses dataset
+
+Our analyses were conducted on a set of Android applications downloaded from Google Play Store.
+
+This [list](https://github.com/TheRimaz/Rimaz/blob/master/TheApplicationDataSet.csv) contains more than 5000 applications that we downloaded randomly from Google Play Store along with the metadata used for the analyses.
