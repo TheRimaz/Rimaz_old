@@ -56,6 +56,8 @@ The current version of Rimaz is developed with parallelism in mind, for the sake
 
 ### Manual analyses dataset
 
+To asses our tool, we tested it on a set of opensource applications and we validated the results manually. You can find the list of the application in this [list](https://github.com/TheRimaz/Rimaz/blob/master/ManuallyValidatedApplicationDataSet.csv).
+
 ### Automatic analyses dataset
 
 Our analyses were conducted on a set of Android applications downloaded from Google Play Store.
